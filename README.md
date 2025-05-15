@@ -6,12 +6,22 @@
   <tr>
     <td style="vertical-align: top; padding-right: 20px;">
       <h3>🎓 Artificial Intelligence Engineer</h3>
-      <p>🟣 Java Enthusiast | 📝 DSA Learner | 🐍 Python & SQL Explorer<br>
+      <p>🟣 Java Enthusiast | 📝 DSA Learner 
+      🐍 Python & SQL Explorer<br>
       🚀 Fresher actively looking for opportunities<br> 
       💬 Open to contributing to exciting tech projects!</p>
     </td>
     <td>
-      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXVkbDkzOWlpdnhkb3Rta3plNDVleGNmMnl1ZW56c3NnczVyMm9sZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/g4sCZhKykg1z2/giphy.gif" width="400px" alt="Iron Man Marvel Banner" />
+     
+</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Artificial+Intelligence+Engineer;Java+Developer+In+Progress;Learning+DSA+and+SQL;Open+to+Work+%26+Collaborate!&center=true&width=500&height=45&color=58a6ff&vCenter=true&pause=1000&size=22" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="250" alt="AI animation" />
+</p>
     </td>
   </tr>
 </table>
