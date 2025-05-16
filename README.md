@@ -40,7 +40,7 @@
 
 ## 🛠️ Tech Stack
 
-<img src="https://skillicons.dev/icons?i=java,python,mysql,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=java,python,mysql,github,vscode" />
 
 ---
 
